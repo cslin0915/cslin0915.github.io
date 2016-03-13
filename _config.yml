@@ -25,8 +25,12 @@ unpublished: false
 # Plugins
 whitelist: []
 gems:
-  - jemoji
+  - jekyll-emoji
   - jekyll-paginate
+emoji:
+  format: emojione-svg # default html
+  ascii: true # default false
+  shortname: true # default true
 
 # Conversion
 markdown:    kramdown
