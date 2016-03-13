@@ -9,11 +9,11 @@
         <div class="hero-content">
 
           {% if site.data.global.title != '' %}
-          <h1 class="text-center">{{ site.data.global.title }}</h1>
+          <h1 class="text-center">{{site.data.global.title}}</h1>
           {% endif %}
 
           {% if site.data.global.description != '' %}
-          <p class="text-center">{{ site.data.global.description | emojify }}
+          <p class="text-center">{{site.data.global.description | emojify }}
           <!-- {% include contact.html %} -->
           </p>
           {% endif %}
