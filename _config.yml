@@ -5,6 +5,7 @@ plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 data_dir: ./_data
 includes_dir: ./_includes
+emoji_dir: http://www.emoji-cheat-sheet.com/graphics/emojis
 # collections: null
 
 # Handling Reading
@@ -23,7 +24,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      [jekyll-paginate]
+gems:      ["jekyll-paginate", "jemoji"]
 
 # Conversion
 markdown:    kramdown

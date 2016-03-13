@@ -1,14 +1,14 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "您好，我是志昇 (Jason)！"
+description: "我是一位程式設計師，對程式所構築而成的美麗事物總感到嘆為觀止，尤其是遊戲與網頁的表現最令人驚訝，到底要如何才能創造出這麼有趣的藝術品?! 這些人究竟使用了什麼技術? 腦袋的構成又是什麼? 為了探索這些神秘，於是我進入了程式的世界 :wink:"
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+footer_text: '[© Fork of phantom](https://github.com/jamigibbs/phantom)'
+facebook: 'chihsheng.lin.14'
+github: 'cslin0915'
+email: 'note0972@gmail.com'
 
 # Admin Settings
-admin_name: 'Jami Gibbs'
-admin_email: 'jami0821@gmail.com'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+admin_name: 'Chih-Sheng Lin'
+admin_email: 'note0972@gmail.com'
+google_analytics: "UA-74796630-1" # Update with your own tracking ID

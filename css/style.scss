@@ -15,12 +15,14 @@
 
 @import '../_sass/bootstrap';
 @import '../_sass/mixins';
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
 
 $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
-%opensans { font-family: 'Open Sans', sans-serif; }
-%merriweather { font-family: 'Merriweather', serif; }
+%opensans { font-family: 'Noto Sans TC', 'Open Sans', sans-serif; }
+%merriweather { font-family: 'cwTeXYen', 'Merriweather', serif; }
 
 /*--------------------------------------------------------------
 	1.0 Defaults
@@ -61,7 +63,7 @@ a {
 }
 
 button.btn, input.btn {
-  padding: 12px 35px;
+  padding: 12px 30px;
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
@@ -272,8 +274,8 @@ button.btn, input.btn {
         content: '';
         position: absolute;
         top: 1.5em;
-        left: 0;
-        width: 3em;
+        left: 2em;
+        width: 15em;
         height: 3px;
         background-color: #ECEFF1;
       }
@@ -305,6 +307,16 @@ button.btn, input.btn {
       background-color: #EFEBE9;
     }
   }
+}
+
+span.fa-stack {
+  margin-right: 10px;
+}
+
+.img-adjust {
+  -webkit-transform: translateY(20%);
+  -ms-transform: translateY(20%);
+  transform: translateY(20%);
 }
 
 /*--------------------------------------------------------------

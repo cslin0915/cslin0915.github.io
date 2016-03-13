@@ -1,16 +1,14 @@
 ---
 layout: inner
-title: About
+title: 關於我
 permalink: /about/
 ---
 
-## Hello World!
+## 嗨，您好！
 --
 
-Aenean praesentium dolore aenean qui nesciunt dictumst molestiae, odit irure. Nesciunt fusce, atque pharetra odio quis quaerat accusantium? Integer aspernatur eligendi facilisis, do sodales. Consequat.
+我畢業於中正資工，對人工智慧、電腦遊戲感興趣，碩士期間接觸過 Pac-Man、Super Mario、StarCraft 的遊戲 AI 程式撰寫，並以 The Mario AI Competition 作為論文主題。
 
-Arcu porro faucibus ante! Unde litora voluptate veniam fugit alias. Sociosqu! Augue, cupidatat excepturi laoreet magnis veniam repudiandae impedit venenatis alias iure ad ab! Enim.
+役畢後進入京湛視訊工作，初學 Android/iOS app 開發，替該視訊監控 app 新增功能。接著在中研院資訊所擔任研究助理，主要做實驗用的網站維護與開發，按資料分析者的需求做資料處理，常使用的程式語言涵蓋 HTML、CSS、Javascript、Python 與 R。
 
-Nibh quia necessitatibus omnis! Nemo nascetur penatibus iste morbi. Nisi, consequat! Rutrum. Quasi elementum, dignissim cillum, cubilia sapien vitae officia porta hendrerit. Mi aut recusandae.
-
-Voluptatem sint. Sapiente porttitor vivamus sequi occaecat litora? Conubia molestias nostrud dicta quisque penatibus minim imperdiet? Aspernatur nostra doloribus nibh curae ac? Nobis quas? Sollicitudin.
+近期的技術學習側重在網站開發，並學習使用 Google Cloud Platform 作為網站發布平台。
