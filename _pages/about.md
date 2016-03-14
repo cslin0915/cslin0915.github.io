@@ -4,7 +4,7 @@ title: 關於我
 permalink: /about/
 ---
 
-## 嗨，您好！
+## 嗨，歡迎光臨我的世界！
 --
 
 我畢業於中正資工，對人工智慧、電腦遊戲感興趣，碩士期間接觸過 Pac-Man、Super Mario、StarCraft 的遊戲 AI 程式撰寫，並以 The Mario AI Competition 作為論文主題。
