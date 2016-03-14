@@ -5,7 +5,7 @@ title: '遊戲商城物品標籤問卷'
 date: '2016-03-14 03:34:32'
 categories: development
 project_role: code
-tags: HTML CSS JavaScript PHP Webix R Python
+tags: HTML CSS JavaScript jQuery PHP Webix R Python
 featured_image: 'img/posts/cover-itemtagging.jpg'
 project_link: 'http://github.com/cslin0915/itemTagging'
 button_icon: 'github'
