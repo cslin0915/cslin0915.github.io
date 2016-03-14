@@ -5,7 +5,7 @@ title: '公益文章捐款意願調查'
 date: '2016-03-14 03:11:03'
 categories: development
 project_role: code
-tags: HTML CSS JavaScript PHP Webix FacebookAPI R
+tags: HTML CSS JavaScript jQuery PHP Webix FacebookAPI R
 featured_image: 'img/posts/cover-titlesorting.jpg'
 project_link: 'http://github.com/cslin0915/titleSorting'
 button_icon: 'github'
