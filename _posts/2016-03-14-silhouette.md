@@ -5,7 +5,7 @@ title: '商城服飾剪影相似度比對問卷'
 date: '2016-03-14 03:51:13'
 categories: development
 project_role: code
-tags: HTML CSS JavaScript PHP Webix R Python
+tags: HTML CSS JavaScript jQuery PHP Webix R Python
 featured_image: 'img/posts/cover-silhouette.jpg'
 project_link: 'http://github.com/cslin0915/itSilhouetteCmp'
 button_icon: 'github'
