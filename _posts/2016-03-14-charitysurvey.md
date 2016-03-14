@@ -5,7 +5,7 @@ title: '急難家庭曙光再現計劃'
 date: '2016-03-14 03:23:20'
 categories: development
 project_role: code
-tags: HTML CSS JavaScript PHP Webix FacebookAPI R Python
+tags: HTML CSS JavaScript jQuery PHP Webix FacebookAPI R Python
 featured_image: 'img/posts/cover-charitysurvey.jpg'
 project_link: 'http://github.com/cslin0915/charitySurvey'
 button_icon: 'github'
