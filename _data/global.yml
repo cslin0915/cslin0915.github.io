@@ -1,6 +1,6 @@
 # Site Settings
 title: "您好，我是志昇 (Jason)！"
-description: "我是一位程式設計師，對程式所構築而成的美麗事物總感到嘆為觀止，尤其是遊戲與網頁的表現最令人驚訝，到底要如何才能創造出這麼有趣的藝術品?! 這些人究竟使用了什麼技術? 作品的背後又有什麼樣的思考邏輯? 為了探索這些神秘，滿足自己的好奇心，以及想成為其中一份子的心情，於是我進入了程式的世界 ;)"
+description: "我是一位程式設計師，總被由程式構築的美麗事物吸引，其中遊戲與網頁的表現最令我驚艷。要如何創造這麼有趣的藝術品? 究竟使用什麼技術? 作品背後的思考邏輯? 為了探索這些神秘，滿足好奇心，以及想成為一份子的心情，我一步踏入程式世界 ;)"
 url: 'http://cslin0915.github.io/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '[© Fork of phantom](https://github.com/jamigibbs/phantom)'
