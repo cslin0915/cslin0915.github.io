@@ -5,7 +5,7 @@ title: '遊戲商城物品購買意願問卷'
 date: '2016-03-14 03:48:30'
 categories: development
 project_role: code
-tags: HTML CSS JavaScript PHP Webix R Python
+tags: HTML CSS JavaScript jQuery PHP Webix R Python
 featured_image: 'img/posts/cover-questionaire.jpg'
 project_link: 'http://github.com/cslin0915/itQuestionaire'
 button_icon: 'github'
