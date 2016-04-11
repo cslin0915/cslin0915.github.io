@@ -7,10 +7,10 @@ permalink: /about/
 ## 嗨，歡迎光臨我的世界！
 --
 
-我畢業於中正資工，對人工智慧、電腦遊戲感興趣，碩士期間接觸過 Pac-Man、Super Mario、StarCraft 的遊戲 AI 程式撰寫，並以 The Mario AI Competition 作為論文主題。
+我畢業於中正資工，對人工智慧、電腦遊戲、資料科學感興趣，碩士期間接觸過 Pac-Man、Super Mario、StarCraft 的遊戲 AI 程式撰寫，並以 The Mario AI Competition 作為論文研究方向。
 
 役畢後進入京湛視訊工作，初學 Android/iOS app 開發，替該視訊監控 app 新增功能。接著在中研院資訊所擔任研究助理，主要做實驗用的網站維護與開發，按資料分析者的需求做資料處理，常使用的程式語言涵蓋 HTML、CSS、Javascript、Python 與 R。
 
-近期的技術學習側重在網站開發，並學習使用 Google Cloud Platform 作為網站發布平台。
+近期的技術學習側重在成為一名資料工程師，並學習使用 Google Cloud Platform 作為資料操作平台。
 
 技術學習外，室內興趣以看小說與漫畫為主，偶爾也玩電腦遊戲，愛的遊戲類型是 RPG，目前正緩慢的跑巫師3的劇情。室外興趣則多以運動與郊外踏青，以及喜歡隨手攝影，智慧型手機是我目前最愛喜用的攝影器材。也喜歡與朋友一起玩桌遊，我認為偶爾與朋友一同玩遊戲與運動真的是生活中不可或缺的活動之一。
