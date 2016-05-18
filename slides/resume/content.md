@@ -6,13 +6,16 @@ class: center, middle
 ---
 
 layout: false
+name: s1
 
+.center[
+  # 中研院資訊所 時期
+]
 .left-column[
-  ## 專長概要
-  ### - 中央研究院 
+  ### 線上遊戲虛擬服裝銷售量分析 
 ]
 .right-column[
-  我是測試
+  專案內容
   - 我是測試
   - 測試二
 ]
@@ -20,14 +23,9 @@ layout: false
 ---
 
 layout: false
+template: s1
+name: s2
 
-.left-column[
-  ## 專長概要
-  ### - 中央研究院 
-  ### - 中正大學
-]
 .right-column[
-  我是測試
-  - 我是測試
-  - 測試二
+  - 測試三
 ]
