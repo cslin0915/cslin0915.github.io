@@ -7,6 +7,7 @@ class: center, middle
 ---
 
 layout: false
+class: center
 
 # 我是測試
 
