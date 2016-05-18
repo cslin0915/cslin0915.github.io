@@ -1,6 +1,8 @@
 class: center, middle
 
-# Title
+# 專長簡報 
+
+林志昇 
 
 ---
 
