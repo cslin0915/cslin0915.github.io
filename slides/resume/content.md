@@ -7,9 +7,10 @@ class: center, middle
 ---
 
 layout: false
-class: center
 
-# 我是測試
+.center[
+  # 我是測試
+]
 
 .left-column[
   ## 專長概要
