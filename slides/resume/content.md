@@ -6,8 +6,8 @@ class: center, middle
 ---
 
 .center[
-  ## 中研院資訊所 時期
-  # 線上遊戲虛擬服裝銷售量分析
+  .sub-title[## 中研院資訊所 時期]
+  .main-title[# 線上遊戲虛擬服裝銷售量分析]
 ]
 ###專案內容
 - 測試一
