@@ -8,8 +8,10 @@ class: center, middle
 
 layout: false
 
+# 我是測試
+
 .left-column[
-  # 專長概要
+  ## 專長概要
 ]
 .right-column[
   我是測試
