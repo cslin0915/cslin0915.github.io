@@ -6,11 +6,14 @@ class: center, middle
 
 ---
 
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
+.left-column[
+  # 專長概要
+]
+.right-column[
+  我是測試
+  - 我是測試
+  - 測試二
+]
 
 ---
 
