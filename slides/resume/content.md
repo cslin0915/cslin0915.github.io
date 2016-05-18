@@ -6,6 +6,8 @@ class: center, middle
 
 ---
 
+layout: false
+
 .left-column[
   # 專長概要
 ]
