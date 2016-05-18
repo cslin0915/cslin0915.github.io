@@ -22,10 +22,7 @@ name: s1
 
 ---
 
-layout: false
 template: s1
 name: s2
 
-.right-column[
-  - 測試三
-]
+- 測試三
