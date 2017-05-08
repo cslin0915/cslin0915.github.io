@@ -27,6 +27,15 @@
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/emoji.css" | prepend: site.baseurl }}">
 
+    <script src="//dmp.eland-tech.com/dmpreceiver/eland_tracker_full.js"></script>
+  <script>
+    var dataJson={
+      'source': 'eland-rd4',
+      'trackType': 'view',
+      'targetType': 'usual'
+    };
+    ElandTracker.Track(dataJson);
+  </script>
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
 
