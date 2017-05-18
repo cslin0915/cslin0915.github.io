@@ -31,6 +31,9 @@
         'targetType': 'usual'
       };
       ElandTracker.Track(dataJson);
+      setTimeout(function(){
+	      ElandTracker.FlushData();
+      }, 1000);
     </script>
 
     <iframe src="{{ site.data.global.url }}myTests/ga_test.html" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
