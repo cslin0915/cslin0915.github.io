@@ -33,9 +33,13 @@
   var dataJson = {
     'source': 'eland-jasonlin',
     'trackType': 'view',
-    'targetType': 'usual'
+    'targetType': 'usual',
+    'ecInfo' : {
+      'memberID': 'e12345678'
+    }
   };
   ElandTracker.Track(dataJson);
+
   setTimeout(function() {
     'use strict';
     var iframe_data = document.createElement('iframe');
