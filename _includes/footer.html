@@ -25,19 +25,19 @@
 <script src="{{ site.data.global.url }}js/app.js"></script>
 
 <script>
-  var dataJson = {
-    'source': 'eland-rd4',
-    'trackType': 'view',
-    'targetType': 'usual'
-  };
   // var dataJson = {
-  //   'source': 'eland-jasonlin',
+  //   'source': 'eland-rd4',
   //   'trackType': 'view',
-  //   'targetType': 'usual',
-  //   'ecInfo' : {
-  //     'memberID': 'e12345678'
-  //   }
+  //   'targetType': 'usual'
   // };
+  var dataJson = {
+    'source': 'eland-jasonlin',
+    'trackType': 'view',
+    'targetType': 'usual',
+    'ecInfo' : {
+      'memberID': 'e12345678'
+    }
+  };
   ElandTracker.Track(dataJson);
 
   // setTimeout(function() {
