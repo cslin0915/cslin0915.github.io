@@ -24,6 +24,7 @@
 <script src="{{ site.data.global.url }}js/wow.min.js"></script>
 <script src="{{ site.data.global.url }}js/app.js"></script>
 
+<script src="//dmp.eland-tech.com/dmpreceiver/eland_tracker_nopd.js"> </script>
 <script>
   // var dataJson = {
   //   'source': 'eland-rd4',
@@ -31,13 +32,22 @@
   //   'targetType': 'usual'
   // };
   var dataJson = {
-    'source': 'eland-jasonlin',
+    'ecInfo': {
+      'memberID': 'abc'
+    },
     'trackType': 'view',
+    'trackSubfolderDepth': 1,
     'targetType': 'usual',
-    'ecInfo' : {
-      'memberID': 'e12345678'
-    }
+    'source': 'eland-jasonlin'
   };
+  // var dataJson = {
+  //   'source': 'eland-jasonlin',
+  //   'trackType': 'view',
+  //   'targetType': 'usual',
+  //   'ecInfo' : {
+  //     'memberID': 'e12345678'
+  //   }
+  // };
   ElandTracker.Track(dataJson);
 
   // setTimeout(function() {
