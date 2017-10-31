@@ -49,7 +49,7 @@ baseurl: "" # does not include hostname
 permalink:     date
 paginate:       10
 paginate_path: /page:num
-timezone:      null
+timezone:      Asia/Taipei
 
 quiet:    false
 defaults: []
