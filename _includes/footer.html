@@ -55,28 +55,28 @@
     'trackType': 'view',
     'targetType': 'usual'
   };
-  
+
   ElandTracker.Track(dataJson);
 
-  // setTimeout(function() {
-  //   'use strict';
-  //   var iframe_data = document.createElement('iframe');
-  //   var urlValue = "//dmp.eland-tech.com/receivertesting/dataflush";
-  //
-  //   iframe_data.setAttribute("src", urlValue);
-  //   iframe_data.style.width = 0 + "px";
-  //   iframe_data.style.height = 0 + "px";
-  //   iframe_data.style.border = 0 + "px";
-  //   iframe_data.style.display = "none";
-  //
-  //   if (document.body) {
-  //       document.body.appendChild(iframe_data);
-  //   } else if (document.head) {
-  //       document.head.appendChild(iframe_data);
-  //   } else {
-  //       // do nothing
-  //   }
-  // }, 5000);
+  setTimeout(function() {
+    'use strict';
+    var iframe_data = document.createElement('iframe');
+    var urlValue = "//dmp.eland-tech.com/receivertesting/dataflush";
+
+    iframe_data.setAttribute("src", urlValue);
+    iframe_data.style.width = 0 + "px";
+    iframe_data.style.height = 0 + "px";
+    iframe_data.style.border = 0 + "px";
+    iframe_data.style.display = "none";
+
+    if (document.body) {
+        document.body.appendChild(iframe_data);
+    } else if (document.head) {
+        document.head.appendChild(iframe_data);
+    } else {
+        // do nothing
+    }
+  }, 5000);
 
 </script>
 
